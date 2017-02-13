@@ -96,7 +96,7 @@
 				}
 			}		
 			
-			$(document).ready(function(){ //체크박스 전체선택,해제
+			$(document).ready(function(){ //체크박스 전체선택,해제!
 				$("#checkAll").click(function() {
 					$("input[name=chkbox]:checkbox").prop("checked",true);
 				});
