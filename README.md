@@ -167,7 +167,8 @@ etc.: HTML5, CSS3, Bootstrap, JSP, MyBatis, JavaScript, JQuery, Ajax
 ```
 2. 주요기능
 -
-* 회원 관리
+* [회원 관리][login]
+[login]:/bcms/src/main/webapp/WEB-INF/views/
 * 명함 등록/검색/수정/삭제
 * 명함 숨기기, 완전 삭제
 * 명함 공유
