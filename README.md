@@ -168,7 +168,6 @@ etc.: HTML5, CSS3, Bootstrap, JSP, MyBatis, JavaScript, JQuery, Ajax
 2. 주요기능
 -
 * [회원 관리][login]
-[login]:/bcms/src/main/webapp/WEB-INF/views/
 * 명함 등록/검색/수정/삭제
 * 명함 숨기기, 완전 삭제
 * 명함 공유
@@ -183,3 +182,4 @@ etc.: HTML5, CSS3, Bootstrap, JSP, MyBatis, JavaScript, JQuery, Ajax
 	* 전체 그룹원 목록을 볼 수 있음
 	* 즐겨찾는 그룹
 		* 원하는 그룹원을 선택한 후 추가 버튼을 통해 원하는 즐겨찾기에 추가할 수 있음
+[login]:/bcms/src/main/webapp/WEB-INF/views/login
