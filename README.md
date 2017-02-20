@@ -13,8 +13,7 @@ DBMS: MySQL
 버전관리: SVN
 etc.: HTML5, CSS3, Bootstrap, JSP, JavaScript, JQuery, Ajax
 ```
-```
-**Spring Framework 3.2.4**
+`
 <dependencies>
   <!-- Spring -->
   <dependency>
@@ -164,4 +163,4 @@ etc.: HTML5, CSS3, Bootstrap, JSP, JavaScript, JQuery, Ajax
     <version>2.4.1.1</version>
   </dependency>
 </dependencies>
-```
+`
