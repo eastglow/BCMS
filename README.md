@@ -5,9 +5,8 @@ Business Card Management System
 1. 개발환경
 -
 
-`
+     
 언어: Java
 IDE: Eclipse
-<br>WAS: Apache Tomcat 7.0.73
-<br>DBMS: MySQL
-`
+WAS: Apache Tomcat 7.0.73
+DBMS: MySQL
