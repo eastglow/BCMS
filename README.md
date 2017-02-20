@@ -11,7 +11,7 @@ IDE: Eclipse
 WAS: Apache Tomcat 7.0.73
 DBMS: MySQL
 버전관리: SVN
-etc.: HTML5, CSS3, Bootstrap, JSP, JavaScript, JQuery, Ajax
+etc.: HTML5, CSS3, Bootstrap, JSP, MyBatis, JavaScript, JQuery, Ajax
 ```
 ####Spring Framework 3.2.4
 ```
