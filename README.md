@@ -8,6 +8,6 @@ Business Card Management System
 `
 언어: Java
 IDE: Eclipse
-WAS: Apache Tomcat 7.0.73
-DBMS: MySQL
+<br>WAS: Apache Tomcat 7.0.73
+<br>DBMS: MySQL
 `
