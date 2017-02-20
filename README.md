@@ -14,7 +14,6 @@ DBMS: MySQL
 etc.: HTML5, CSS3, Bootstrap, JSP, JavaScript, JQuery, Ajax
 ```
 ####Spring Framework 3.2.4
--
 ```
 <dependencies>
   <!-- Spring -->
