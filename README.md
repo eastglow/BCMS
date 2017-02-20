@@ -168,3 +168,9 @@ etc.: HTML5, CSS3, Bootstrap, JSP, JavaScript, JQuery, Ajax
 2. 주요기능
 -
 * 회원 관리
+* 명함 등록/수정/삭제
+* 명함 공유
+	* 
+* 
+* 
+* 
