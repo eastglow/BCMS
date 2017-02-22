@@ -1,4 +1,4 @@
-Business Card Management System
+BCMS(Business Card Management System, 명함관리시스템)
 =
 
 1. 프로젝트 소개
