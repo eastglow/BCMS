@@ -18,12 +18,12 @@ BCMS(Business Card Management System, 명함관리시스템)
 -
 
 ```
-Language: Java
+언어: Java
 IDE: Eclipse
 WAS: Apache Tomcat 7.0.73
 DBMS: MySQL
 버전관리: SVN
-etc.: HTML5, CSS3, Bootstrap, JSP, MyBatis, JavaScript, JQuery, Ajax
+기타: HTML5, CSS3, Bootstrap, JSP, MyBatis, JavaScript, JQuery, Ajax
 ```
 ####Spring Framework 3.2.4
 ```
