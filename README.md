@@ -1,8 +1,6 @@
-BCMS(Business Card Management System, 명함관리시스템)
-=
+# BCMS(Business Card Management System, 명함관리시스템)
 
-1. 프로젝트 소개
--
+## 1. 프로젝트 소개
 
 ```
 1) 소속 : 계명대학교 경영정보학과 소프트웨어 개발 동아리 '수은불망'
@@ -14,8 +12,7 @@ BCMS(Business Card Management System, 명함관리시스템)
 7) 주요실적 : 기획, 분석 및 설계, 명함관리 메인 프레임 및 명함 변경 내역 개발
 ```
 
-2. 개발환경
--
+## 2. 개발환경
 
 ```
 언어: Java
@@ -25,7 +22,7 @@ DBMS: MySQL
 버전관리: SVN
 기타: HTML5, CSS3, Bootstrap, JSP, MyBatis, JavaScript, JQuery, Ajax
 ```
-####Spring Framework 3.2.4
+###Spring Framework 3.2.4
 ```
 <dependencies>
   <!-- Spring -->
@@ -177,25 +174,20 @@ DBMS: MySQL
   </dependency>
 </dependencies>
 ```
-3. 주요기능
--
-* [회원 관리][login]
-* [명함 등록/검색/수정/삭제][nmeCard]
-* [명함 숨기기, 완전 삭제][nmeCard]
-* [명함 공유][shar]
+## 3. 주요기능
+
+* [회원 관리](/bcms/src/main/webapp/WEB-INF/views/login)
+* [명함 등록/검색/수정/삭제](/bcms/src/main/webapp/WEB-INF/views/nmeCard)
+* [명함 숨기기, 완전 삭제](/bcms/src/main/webapp/WEB-INF/views/nmeCard)
+* [명함 공유](/bcms/src/main/webapp/WEB-INF/views/shar)
 	* 그룹원끼리 공유
 	* 커뮤니케이션 등록/수정/삭제
 		* 해당 명함에 대한 의견이나 정보를 남겨 그룹원끼리 공유하며 볼 수 있음
-* [명함 보내기][shar]
+* [명함 보내기](/bcms/src/main/webapp/WEB-INF/views/shar)
 	* 명함을 공유하는 것이 아닌, 단순히 보여주기 위한 용도로 만들어진 기능(수정/삭제 불가능)
-* [명함 변경 내역][nmeCardHistr]
+* [명함 변경 내역]((/bcms/src/main/webapp/WEB-INF/views/nmeCard/nmeCardHistrSelectForm.jsp)
 	* 해당 명함에 대한 수정 내역들을 볼 수 있음
-* [그룹 관리][group]
+* [그룹 관리](/bcms/src/main/webapp/WEB-INF/views/group)
 	* 전체 그룹원 목록을 볼 수 있음
 	* 즐겨찾는 그룹
 		* 원하는 그룹원을 선택한 후 추가 버튼을 통해 원하는 즐겨찾기에 추가할 수 있음
-[login]:/bcms/src/main/webapp/WEB-INF/views/login
-[nmeCard]:/bcms/src/main/webapp/WEB-INF/views/nmeCard
-[shar]:/bcms/src/main/webapp/WEB-INF/views/shar
-[nmeCardHistr]:/bcms/src/main/webapp/WEB-INF/views/nmeCard/nmeCardHistrSelectForm.jsp
-[group]:/bcms/src/main/webapp/WEB-INF/views/group
