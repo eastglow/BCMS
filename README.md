@@ -22,7 +22,7 @@ DBMS: MySQL
 버전관리: SVN
 기타: HTML5, CSS3, Bootstrap, JSP, MyBatis, JavaScript, JQuery, Ajax
 ```
-###Spring Framework 3.2.4
+### Spring Framework 3.2.4
 ```
 <dependencies>
   <!-- Spring -->
