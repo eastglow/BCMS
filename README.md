@@ -185,7 +185,7 @@ DBMS: MySQL
 		* 해당 명함에 대한 의견이나 정보를 남겨 그룹원끼리 공유하며 볼 수 있음
 * [명함 보내기](/bcms/src/main/webapp/WEB-INF/views/shar)
 	* 명함을 공유하는 것이 아닌, 단순히 보여주기 위한 용도로 만들어진 기능(수정/삭제 불가능)
-* [명함 변경 내역]((/bcms/src/main/webapp/WEB-INF/views/nmeCard/nmeCardHistrSelectForm.jsp)
+* [명함 변경 내역](/bcms/src/main/webapp/WEB-INF/views/nmeCard/nmeCardHistrSelectForm.jsp)
 	* 해당 명함에 대한 수정 내역들을 볼 수 있음
 * [그룹 관리](/bcms/src/main/webapp/WEB-INF/views/group)
 	* 전체 그룹원 목록을 볼 수 있음
